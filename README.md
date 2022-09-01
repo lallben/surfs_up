@@ -30,6 +30,7 @@ The code for data storage and retrieval can be found in the [SurfsUp_Challenge.i
 <p align="center">
   <img src="https://github.com/lallben/surfs_up/blob/main/June_Dec_temps_summary.png" alt="Temp Summary"/>
 </p>
+
 # Summary Precipitation statistics for June & December
 ![June Rain](https://github.com/lallben/surfs_up/blob/main/june_precip.png)
 ![Dec Rain](https://github.com/lallben/surfs_up/blob/main/dec_precip.png)
