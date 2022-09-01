@@ -24,16 +24,27 @@ The 'Station' table has the follwing columns:<br>
 - Software: SQLlite, Flask<br>
 
 The code for data storage and retrieval can be found in the [SurfsUp_Challenge.ipynb.](https://github.com/lallben/surfs_up/blob/main/SurfsUp_Challenge.ipynb)
-# Summary Temperature statistics for June & December
+# Summary statistics
+## Summary Temperature statistics for June & December
 ![June Temp](https://github.com/lallben/surfs_up/blob/main/june_temps.png)
 ![Dec Temp](https://github.com/lallben/surfs_up/blob/main/dec_temps.png)
 <p align="center">
   <img src="https://github.com/lallben/surfs_up/blob/main/June_Dec_temps_summary.png" alt="Temp Summary"/>
 </p>
 
-# Summary Precipitation statistics for June & December
+## Summary Precipitation statistics for June & December
 ![June Rain](https://github.com/lallben/surfs_up/blob/main/june_precip.png)
 ![Dec Rain](https://github.com/lallben/surfs_up/blob/main/dec_precip.png)
 <p align="center">
   <img src="https://github.com/lallben/surfs_up/blob/main/June_Dec_precip_summary.png" alt="Temp Summary"/>
 </p>
+
+# Analysis based on Summary statistics
+Based on the statistical analysis derived from the temperature and precipitation over a period of seven years it seems that the rainfall in December is more than in June, however the rainfall is not very high. The Mean rainfall in December is 21mm as compared to 13mm in June.<br>
+Furthermore, the temperatures in both the months are quite comparable. The Mean temperatures for June & December are 74 & 71 degrees respectively.<br>
+Overall, taking into account just the temperatures and rainfall, and assuming all other conditions are the same, it would seem that the shop could be open throughout the year.<br> 
+However, there are many other variables that contribute to a perfect surfing environment like wind conditions etc. These would have to be taken into account as well in arriving at a informed decision.
+
+# Further Analysis to help in decision making:
+![June Station](https://github.com/lallben/surfs_up/blob/main/june_summary_by_station.png)
+![Dec Station](https://github.com/lallben/surfs_up/blob/main/dec_summary_by_station.png)
