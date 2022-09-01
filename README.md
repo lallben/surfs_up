@@ -46,7 +46,8 @@ Overall, taking into account just the temperatures and rainfall, and assuming al
 However, there are many other variables that contribute to a perfect surfing environment like wind conditions etc. These would have to be taken into account as well in arriving at a informed decision.
 
 # Further Analysis to help in decision making:
-In order to help in arriving at a more informed decision I then did a further analysis to break up rainfall and temperature by each station. This will help idenitfy the stations that would be more conducive to mantaining shops throughout the year or will help W Avy to promote and apprpriate resources accordingly.<br>
-The reasoning is that not all stations need to be resourced in the same manner throughout the year.
+In order to help in arriving at a more informed decision I then did a further analysis to break up rainfall and temperature by each station. This will help identify the stations that would be more conducive to mantaining shops throughout the year or will help W Avy to promote and apprpriate resources accordingly.<br>
+The reasoning is that not all stations need to be resourced in the same manner throughout the year.<br>
+The code for this analysis can be found at the end in the [SurfsUp_Challenge.ipynb.](https://github.com/lallben/surfs_up/blob/main/SurfsUp_Challenge.ipynb)<br>
 ![June Station](https://github.com/lallben/surfs_up/blob/main/june_summary_by_station.png)
 ![Dec Station](https://github.com/lallben/surfs_up/blob/main/dec_summary_by_station.png)
